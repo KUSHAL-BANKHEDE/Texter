@@ -32,7 +32,7 @@ function App() {
     {/* <Alert alert="This is alert"/> */}
     
     <div className="container my-5" >
-    <TextForm  heading = "Enter The text to analyze" mode ={mode}/>
+    <TextForm  heading = "Enter The Text to analyze" mode ={mode}/>
      
     </div>
     </>
